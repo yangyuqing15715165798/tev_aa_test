@@ -1,7 +1,9 @@
-# TEV/AA二合一传感器监测软件
+# TEV/AA二合一传感器监测软件(依据其他厂家的开关柜modbus点表信息写的上位机)
 
 ## 项目概述
 这是一个用于监测TEV/AA（瞬态地电压/声学发射）二合一传感器的软件。该软件提供了与传感器通信的功能，并通过图形界面显示传感器数据和波形。
+![5a6c22ae258902f3a994abd295e43c3](https://github.com/user-attachments/assets/19d2af3d-df4a-4c71-8ba1-3ed3b16ff520)
+
 
 ### 主要功能
 - 直接通过串口与传感器通信（Modbus RTU协议）
