@@ -1,0 +1,4 @@
+pymodbus==2.5.3
+pyserial==3.5
+pyqt5==5.15.9
+pyqtgraph==0.13.3 
